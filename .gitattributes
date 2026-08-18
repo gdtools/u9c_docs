@@ -1,0 +1,3 @@
+# 统一换行符，避免跨平台协作时的 CRLF/LF 混乱
+* text=auto
+*.md text eol=lf
